@@ -1,4 +1,4 @@
-# DigitalToolkit Test No.1
+# Digital Toolkit Test No.1
 Our first try to set up a curated collection of new and existing digital self-learning materials to make learning more comftable and indipendent.
 Lecturers have limited time. Learners have diverse knowledge.
 
