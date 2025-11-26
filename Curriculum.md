@@ -3,22 +3,22 @@ title: Curriculum
 nav_order: 3
 ---
 
-## **Content:**
+# **Content:**
 
 
-# Data Science
+## Data Science
 - Statistisches & kritisches Denken
 - Methoden inkl. KI-Verfahren
 
-# Research Data Management (RDM)
+## Research Data Management (RDM)
 - FAIR-Prinzipien
 - Datenschutz & Urheberrecht
 - Umgang mit sensiblen & qualitativen Daten
 
-# Programmierung
+## Programmierung
 - Python, R, weitere Sprachen
 - Datenhandling & Engineering
 
-# Visualisierung
+## Visualisierung
 - Best Practices
 - Tools & Plattformen
