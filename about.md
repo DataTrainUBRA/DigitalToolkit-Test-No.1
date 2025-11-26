@@ -24,4 +24,4 @@ The University of Bremen and twelve federal and state financed non-university re
 
 The cooperation in the U Bremen Research Alliance extends over the four scientific High-Profile Areas “Marine, Polar and Climate Research”, “Material Sciences and Production Engineering”, “Health Sciences” and “Minds, Media, Machines” and thus literally “From deep sea to outer space".
 
-[Take a look](https://www.bremen-research.de/en/research-alliance)
+[Take a look!](https://www.bremen-research.de/en/research-alliance)
