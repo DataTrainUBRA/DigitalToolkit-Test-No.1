@@ -9,6 +9,16 @@ nav_order: 2
 As part of the Data Train program by the U Bremen Research Alliance, a curated digital learning catalog - the “Digital Toolkit” is being developed.
 The aim of the Digital Toolkit is to provide a central, freely accessible, high-quality collection of selected digital self-learning materials that both complement the existing Data Train courses and enable independent, flexible, and needs-based online learning in the fields of data science, research data management, and digital methods.
 
+### **Why?**
+
+1. Lecturers have limited time
+2. Learners often don’t know where and how to start learning
+3. Learners also don’t know what are good and right materials to work with
+
+**We would like to provide fewer but better resources**
+- Those can be used structured and at own’s discretion
+- Easy to find, easy to use and open access
+
 
 ##  **Data Train**
 
