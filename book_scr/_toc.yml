@@ -4,7 +4,10 @@ root: index
 chapters:
 - file: index
   title: Home
-- file: Aabout
+sections:
+- file: Curriculum
+-title: Curriculum
+- file: about
    title: About us
 - file: contact
 - title: Contact
