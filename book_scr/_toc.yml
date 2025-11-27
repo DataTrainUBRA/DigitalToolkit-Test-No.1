@@ -2,8 +2,10 @@ format: jb-book
 root: index
 
 chapters:
-- file: Home
+- file: index
   title: Home
-- file: About us
+- file: Aabout
    title: About us
-- 
+- file: contact
+- title: Contact
+
