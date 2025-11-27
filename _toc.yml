@@ -1,1 +1,8 @@
-jupyter-book build .
+format: jb-book
+root: index
+
+chapters:
+- file: intro
+  title: Einführung
+- file: data-science
+  title: Data Science
