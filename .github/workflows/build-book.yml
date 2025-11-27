@@ -3,7 +3,7 @@ name: build-book
 on:
   push:
     branches:
-      - gh-pages   # Du kannst hier auch deinen Arbeitsbranch angeben
+      - main   # Du kannst hier auch deinen Arbeitsbranch angeben
 
 jobs:
   build-deploy:
