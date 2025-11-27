@@ -2,12 +2,9 @@ format: jb-book
 root: index
 
 chapters:
-- file: index
-  title: Home
-sections:
 - file: Curriculum
--title: Curriculum
+  title: Curriculum
 - file: about
-   title: About us
+  title: About us
 - file: contact
-- title: Contact
+  title: Contact
