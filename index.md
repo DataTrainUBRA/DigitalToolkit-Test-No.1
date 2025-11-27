@@ -19,6 +19,7 @@ We're sorry, but this Website is under construction. Content and structur will b
 - Data handling, Data engineering
 - Methods and techniques (also AI)
 - Statistical thinking, Critical thinking
+- Test
 
 
 
