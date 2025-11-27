@@ -1,2 +1,35 @@
-run: jupyter-book build book_scr
-publish_dir: ./book-scr/_build/html
+name: build-book
+
+on:
+  push:
+    branches:
+      - gh-pages   # Du kannst hier auch deinen Arbeitsbranch angeben
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Quellcode auschecken
+      - uses: actions/checkout@v2
+
+      # Python installieren
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      # Jupyter Book installieren
+      - name: Install Jupyter Book
+        run: pip install -U jupyter-book
+
+      # Buch bauen
+      - name: Build the Jupyter Book
+        run: jupyter-book build book-scr
+
+      # Deployment ins gh-pages Branch
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./book-scr/_build/html
