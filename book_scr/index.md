@@ -1,17 +1,12 @@
----
-title: Home
-nav_order: 1
----
+# Hello World
 
-# **Hello World**
+We're sorry, but this website is under construction. Content and structure will be added gradually.
 
-We're sorry, but this Website is under construction. Content and structur will be aded gradually.
-
-## Future content fields:
+## Future content fields
 
 - Data Science
 - Data Analysis
-- Research Data Management (RDM): 
+- Research Data Management (RDM):
   - FAIR data principles
   - Data protection, copyright, sensitive data
 - Programming
@@ -19,6 +14,4 @@ We're sorry, but this Website is under construction. Content and structur will b
 - Data handling, Data engineering
 - Methods and techniques (also AI)
 - Statistical thinking, Critical thinking
-- on to the next one
-
 
