@@ -1,2 +1,2 @@
 run: jupyter-book build book_scr
-publish_dir: ./book_scr/_build/html
+publish_dir: ./book-scr/_build/html
